@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57191ae5-1340-4b68-b468-feb7f9548884" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../src/com/base/Practice2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/com/base/Practice2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/com/base/Practice2_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/com/base/Practice3_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/com/base/Practice3_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/com/base/Practice3_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/com/base/Practice3_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/com/base/Practice3_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法/src/SuperiorAlgorithm/LongestSubSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/consumer-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/consumer-demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/consumer-demo/src/main/java/com/rabbitpractice/demo/consumer/OrderReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/consumer-demo/src/main/java/com/rabbitpractice/demo/consumer/OrderReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/demo/src/main/java/com/flowable/xuexiaobo/demo/controller/ExpenseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/demo/src/main/java/com/flowable/xuexiaobo/demo/controller/ExpenseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/demo/src/main/java/com/flowable/xuexiaobo/demo/handler/Temp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/demo/src/main/java/com/flowable/xuexiaobo/demo/handler/Temp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/demo/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/demo/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/holidayrequest/src/main/java/HolidayRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/holidayrequest/src/main/java/HolidayRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/holidayrequest/src/main/resources/holiday-request.bpmn20.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/holidayrequest/src/main/resources/holiday-request.bpmn20.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/holidayrequest/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/holidayrequest/src/main/resources/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/holidayrequest/target/classes/holiday-request.bpmn20.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/holidayrequest/target/classes/holiday-request.bpmn20.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Demo/holidayrequest/target/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Demo/holidayrequest/target/classes/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode/11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode/11.盛最多水的容器.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/11.盛最多水的容器.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode/15.三数之和.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode/15.三数之和.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InversePairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/InversePairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MinimumSwaps2Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/MinimumSwaps2Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RelativeSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/RelativeSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortByCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/SortByCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring-in-Action/code/chapter_1/out/production/chapter_1/com/springinaction/knights/knights.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring-in-Action/code/chapter_1/out/production/chapter_1/com/springinaction/knights/knights.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring-in-Action/code/chapter_1/src/com/springinaction/knights/BraveKnight.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring-in-Action/code/chapter_1/src/com/springinaction/knights/BraveKnight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring-in-Action/code/chapter_1/src/com/springinaction/knights/DamselRescuingKnight.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring-in-Action/code/chapter_1/src/com/springinaction/knights/DamselRescuingKnight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring-in-Action/code/chapter_1/src/com/springinaction/knights/KnightConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring-in-Action/code/chapter_1/src/com/springinaction/knights/KnightConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring-in-Action/code/chapter_1/src/com/springinaction/knights/KnightMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring-in-Action/code/chapter_1/src/com/springinaction/knights/KnightMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring-in-Action/code/chapter_1/src/com/springinaction/knights/Minstrel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring-in-Action/code/chapter_1/src/com/springinaction/knights/Minstrel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring-in-Action/code/chapter_1/src/com/springinaction/knights/SlayDragonQuest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring-in-Action/code/chapter_1/src/com/springinaction/knights/SlayDragonQuest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring-in-Action/code/chapter_1/src/com/springinaction/knights/knights.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring-in-Action/code/chapter_1/src/com/springinaction/knights/knights.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring-in-Action/code/chapter_2/src/soundsystem/BlankDisc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring-in-Action/code/chapter_2/src/soundsystem/BlankDisc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring-in-Action/code/chapter_2/src/soundsystem/CDPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring-in-Action/code/chapter_2/src/soundsystem/CDPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring-in-Action/code/chapter_2/src/soundsystem/CDPlayer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring-in-Action/code/chapter_2/src/soundsystem/CDPlayer.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring-in-Action/code/chapter_2/src/soundsystem/CDPlayerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring-in-Action/code/chapter_2/src/soundsystem/CDPlayerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring-in-Action/code/chapter_2/src/soundsystem/CDPlayerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring-in-Action/code/chapter_2/src/soundsystem/CDPlayerTest.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/usr/local/DevEnv/apache-maven-3.6.1/" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="1680" />
+    <option name="y" value="-390" />
+    <option name="width" value="2560" />
+    <option name="height" value="1440" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="高级算法" type="b2602c69:ProjectViewProjectNode" />
+              <item name="高级算法" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57191ae5-1340-4b68-b468-feb7f9548884" name="Default Changelist" comment="" />
+      <created>1571274436174</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571274436174</updated>
+      <workItem from="1571274437583" duration="91000" />
+      <workItem from="1574301927473" duration="20000" />
+      <workItem from="1574302082710" duration="56000" />
+      <workItem from="1574304055907" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="183000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1680" y="-390" width="2560" height="1440" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25377283" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Searching_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="11" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
